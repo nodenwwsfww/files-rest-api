@@ -1,5 +1,5 @@
-# TODO
+#TODO
 
-TODO: frontend authentication & API token verification for uploading file
+TODO: Implement frontend authentication & API token verification for file uploading.
 
-TODO: connect docs API builder for API and document an API
+TODO: Connect an API builder to generate API documentation and document the API accordingly.
