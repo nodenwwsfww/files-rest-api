@@ -1,3 +1,4 @@
+![image](https://user-images.githubusercontent.com/54706661/233469497-cd8339c0-6770-4f70-b325-d744f1a5b6a0.png)
 # Express with ES6
 
 ## How to run
@@ -17,5 +18,4 @@ For stuff like heroku deployment, aws elasticbeanstalk, run `npm run start`
 * `transpile` - convert es6 and beyond code to es5 to a folder named `dist`
 * `clean` - delete transpiled folder
 * `build` - clean and transpile!
-* [image](https://user-images.githubusercontent.com/54706661/233469418-6209306f-eeb3-42c2-8c85-bda65d5c16dc.png)
 
